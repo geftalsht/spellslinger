@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    
+    <content contentuid="h2bd21837g2903g4cddg8b11ga66587b4892c" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+
+    <content contentuid="hf7bd8a5fg3939g467ag95a5g8dc3086a95ef" version="1">The target gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+
+    <!-- Acid Splash Description -->
+    <content contentuid="h8e439155gc8dag41e9g85e8g25595ee4202d" version="1">Throw a bubble of acid that damages each creature it hits and covers them in &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;.</content>
+
+</contentList>
