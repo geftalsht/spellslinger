@@ -91,14 +91,35 @@ spell is used on them.
 
 #### Guidance
 
-"Guidance" stands out as a potent cantrip in both tabletop D&D and Baldur's Gate 3.
-My intent is not to buff it further, but rather to recalibrate its strength in the
-early levels, emphasizing the importance of skill investments over a mere reliance
-on this cantrip. By eliminating the concentration and touch requirements, I aim to
-boost its utility. Considering its restricted combat application in Baldur's Gate 3
-I believe these changes won't unbalance the game.
+"Guidance" is a standout cantrip in both tabletop D&D and Baldur's Gate 3. However, 
+its application, particularly in the early stages, often emphasizes reliance on 
+the cantrip over strategic skill investments.
+
+In most gameplay scenarios—whether in Baldur's Gate 3 or tabletop D&D—players tend 
+to use guidance reactively, casting it when they foresee specific checks. This approach 
+creates an inconvenient gameplay dynamic in Baldur's Gate 3, where players:
+
+1. Predict an upcoming passive check and pre-cast guidance,
+2. Continually refresh the spell in anticipation of potential checks, or
+3. Only utilize it for dialogue checks where the game suggests available boosts.
+
+Such mechanics can become tedious. Ideally, I'd implement Guidance as a reaction 
+(akin to OneD&D). However, there's uncertainty regarding the feasibility of creating 
+interrupts for ability checks. Furthermore, bombarding players with interrupt 
+prompts could exacerbate the annoyance.
 
 + **Concentration:** `Removed`
++ **Duration:** `10 turns` -> `Until Long Rest`
 + **Range:** `Touch` => `9 meters`
 + **Boost to Ability checks:** `+1d4` => `+1`
 + **\[NEW\] Boost Scaling:** `+1` at levels 5 and 10
+
+#### Light
+
+The "Light" cantrip is handy in certain parts of the game and against some enemies
+in Act 2. Right now, using it takes up a full action, which feels a bit much for its
+limited use. By making it a Bonus Action, players can use it more freely, especially
+in combat. Most experienced players know where to expect fights and might cast "Light"
+beforehand anyway, so this change shouldn't make battles too easy.
+
++ **Cost:** `Action` -> `Bonus Action`

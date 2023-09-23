@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## \[0.2.1\] - 2023-09-23
+
++ Rethought and redone changes to Guidance
++ All changes are reimplemented with self-inheritance
++ Added changes to "Light"
++ Removed the Mod Fixer from the mod. Just get the Mod Fixer from Nexus.
+
 ## \[0.1.3\] - 2023-09-17
 
 ### Added

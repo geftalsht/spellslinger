@@ -1,5 +1,5 @@
-new entry "Target_DancingLights"
+new entry "Target_Light"
 type "SpellData"
 data "SpellType" "Target"
-using "Target_DancingLights"
+using "Target_Light"
 data "UseCosts" "BonusActionPoint:1"
