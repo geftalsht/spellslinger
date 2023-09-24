@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## \[0.3.1\] - 2023-09-24
+
++ Documentation files are split to make navigation easier
+
 ## \[0.3.0\] - 2023-09-24
 
 + Finished making changes to cantrips

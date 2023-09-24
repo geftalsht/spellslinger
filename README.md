@@ -16,4 +16,4 @@ the work of others. Because of this, I might make the repository
 private later on.
 
 ## Changes
-For a detailed list of our changes and the reasoning behind them, check out the [CHANGES](CHANGES.md) file.
+For a detailed list of our changes and the reasoning behind them, check out the [CHANGES](Docs/CHANGES.md) file.
