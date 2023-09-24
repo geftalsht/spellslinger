@@ -1,15 +1,21 @@
 # CHANGELOG
 
+## \[0.4.2\] - 2023-09-24
+
++ *Create or Destroy Water* gains more range when upcast
+(but area gains are reduced) to make it less awkward to aim.
++ *Create or Destroy Water* can be cast as a Ritual
+
 ## \[0.4.1\] - 2023-09-24
 
-+ Fixed a tooltip for Produce Flame
-+ Reverted changing Produce Flame from an Action to a Bonus Action
-+ Fixed a tooltip for a level 6 upcast of Bless
++ Fixed a tooltip for *Produce Flame*
++ Reverted changing *Produce Flame* from an Action to a Bonus Action
++ Fixed a tooltip for a level 6 upcast of *Bless*
 
 ## \[0.4.0\] - 2023-09-24
 
-+ Changes to Animal Friendship, Armor of Agathys, Arms of Hadar, Bane, 
-Bless, Create or Destroy Water
++ Changes to *Animal Friendship*, *Armor of Agathys*, *Arms of Hadar*, *Bane*, 
+*Bless*, *Create or Destroy Water*
 
 ## \[0.3.1\] - 2023-09-24
 
@@ -21,9 +27,9 @@ Bless, Create or Destroy Water
 
 ## \[0.2.1\] - 2023-09-23
 
-+ Rethought and redone changes to Guidance
++ Rethought and redone changes to *Guidance*
 + All changes are reimplemented with self-inheritance
-+ Added changes to "Light"
++ Added changes to *Light*
 + Removed the Mod Fixer from the mod. Just get the Mod Fixer from Nexus.
 
 ## \[0.1.3\] - 2023-09-17

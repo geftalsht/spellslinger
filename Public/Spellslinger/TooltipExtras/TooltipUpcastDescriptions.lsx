@@ -40,6 +40,12 @@
                     <attribute id="Text" type="TranslatedString" handle="h919789fbgd6d2g49ddg96bbgcfc5418d7601" version="1"/>
                     <attribute id="UUID" type="guid" value="39b81283-6c6b-4881-91b9-572c32f2d41d"/>
                 </node>
+                <!-- Create or Destroy Water -->
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Increased area and range"/>
+                    <attribute id="Text" type="TranslatedString" handle="h541a0ebagc2d7g429eg9dbag81ba5b8798f2" version="1"/>
+                    <attribute id="UUID" type="guid" value="85850935-1c24-4c6f-9770-44c50f806510"/>
+                </node>
             </children>
         </node>
     </region>

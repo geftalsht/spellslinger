@@ -1,52 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 
-    <!-- Description tooltip for Guidance (skill) -->
-    <content contentuid="hf7bd8a5fg3939g467ag95a5g8dc3086a95ef" version="1">The target gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+    <!-- STATUS EFFECT TOOLTIPS -->
 
-    <!-- Description tooltip for Guidance (status) -->
-    <content contentuid="h2bd21837g2903g4cddg8b11ga66587b4892c" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-
-    <!-- Description tooltip for Acid Splash (skill) -->
-    <content contentuid="h8e439155gc8dag41e9g85e8g25595ee4202d" version="1">Throw a bubble of acid that damages each creature it hits and covers them in &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;.</content>
-
-    <!-- Description tooltip for Poison Spray (skill) -->
-    <content contentuid="h7ab78552g8742g4b02g8149gf9fe10798de8" version="1">Project a puff of noxious gas and &lt;LSTag Type="Status" Tooltip="POISONED"&gt;poison&lt;/LSTag&gt; the target.</content>
-
-    <!-- Description tooltip for Resistance (status) -->
-    <content contentuid="h375253fdge403g45a2g9fc0gea5c6583d597" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-
-    <!-- Upcast tooltip for Bane (level 1) -->
-    <content contentuid="hc1e5f8bagb672g451fgad0dg7325073ed941" version="1">Adds target &amp; time per level. At 3 &amp; 6, range up. Level 6 applies Greater Bane.</content>
-
-    <!-- Upcast tooltip for Bless (level 1) -->
-    <content contentuid="h03ec2fffge834g42cdg88c9g6443dcd96256" version="1">Adds target &amp; time per level. At 3 &amp; 6, range up. Level 6 applies Greater Bless.</content>
-
-    <!-- Upcast tooltip for Bane, Bless (level 2) -->
-    <content contentuid="h5c05e08eg41e7g4723gbd4dg3e37595974f5" version="1">Affects an additional target per level and for a longer duration.</content>
-
-    <!-- Upcast tooltip for Bane, Bless (levels 3, 4, 5) -->
-    <content contentuid="h10950292g6ed0g4ea4gbf74g2d1f69c78c5f" version="1">Affects an additional target per level and for a longer duration. Range is increased by [1] meters.</content>
-
-    <!-- Upcast tooltip for Bane (level 6) -->
-    <content contentuid="h88be2625gf739g4c3cg9c1fg55a8b3e9d36e" version="1">Applies Greater Bane instead. Affects an additional target per level and for a longer duration. Range is increased by [1] meters.</content>
-
-    <!-- Upcast tooltip for Bless (level 6) -->
-    <content contentuid="h919789fbgd6d2g49ddg96bbgcfc5418d7601" version="1">Applies Greater Bless instead. Affects an additional target per level and for a longer duration. Range is increased by [1] meters.</content>
-
-    <!-- Greater Bane (status) -->
+    <!-- Greater Bane -->
     <content contentuid="hb6bb348dg92ffg4219g9d97ge57fe6fe30a9" version="1">Greater Bane</content>
 
-    <!-- Description tooltip for Greater Bane (status) -->
+    <!-- Greater Bane Description -->
     <content contentuid="h28a9cf05g7b77g48c8gad1dg14815630df11" version="1">Has a [1] penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 
-    <!-- Greater Bless (status) -->
+    <!-- Greater Bless -->
     <content contentuid="h3acfd499g2f3fg42d9gacabg2537551e50c8" version="1">Greater Bless</content>
 
-    <!-- Description tooltip for Greater Bless (status) -->
+    <!-- Greater Bless Description -->
     <content contentuid="ha5b05ff3gc030g4fd5g8298gfbded5673389" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 
-    <!-- Description tooltip for Bless (level 1) -->
+    <!-- Guidance -->
+    <content contentuid="h2bd21837g2903g4cddg8b11ga66587b4892c" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+
+    <!-- Resistance -->
+    <content contentuid="h375253fdge403g45a2g9fc0gea5c6583d597" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+
+    <!-- SPELL TOOLTIPS -->
+
+    <!-- Acid Splash -->
+    <content contentuid="h8e439155gc8dag41e9g85e8g25595ee4202d" version="1">Throw a bubble of acid that damages each creature it hits and covers them in &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;.</content>
+
+     <!-- Guidance -->
+    <content contentuid="hf7bd8a5fg3939g467ag95a5g8dc3086a95ef" version="1">The target gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+
+    <!-- Poison Spray -->
+    <content contentuid="h7ab78552g8742g4b02g8149gf9fe10798de8" version="1">Project a puff of noxious gas and &lt;LSTag Type="Status" Tooltip="POISONED"&gt;poison&lt;/LSTag&gt; the target.</content>
+
+    <!-- Bless (level 1) -->
     <content contentuid="h26fec4c1gd9d9g43d3gb61agd7805f852fec" version="1">Bless a creature. They gain a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+
+    <!-- UPCASTING TOOLTIPS -->
+
+    <!-- Bane (level 1) -->
+    <content contentuid="hc1e5f8bagb672g451fgad0dg7325073ed941" version="1">Adds target &amp; time per level. At 3 &amp; 6, range up. Level 6 applies Greater Bane.</content>
+
+    <!-- Bless (level 1) -->
+    <content contentuid="h03ec2fffge834g42cdg88c9g6443dcd96256" version="1">Adds target &amp; time per level. At 3 &amp; 6, range up. Level 6 applies Greater Bless.</content>
+
+    <!-- Bane, Bless (level 2) -->
+    <content contentuid="h5c05e08eg41e7g4723gbd4dg3e37595974f5" version="1">Affects an additional target per level and for a longer duration.</content>
+
+    <!-- Bane, Bless (levels 3, 4, 5) -->
+    <content contentuid="h10950292g6ed0g4ea4gbf74g2d1f69c78c5f" version="1">Affects an additional target per level and for a longer duration. Range is increased by [1] meters.</content>
+
+    <!-- Bane (level 6) -->
+    <content contentuid="h88be2625gf739g4c3cg9c1fg55a8b3e9d36e" version="1">Applies Greater Bane instead. Affects an additional target per level and for a longer duration. Range is increased by [1] meters.</content>
+
+    <!-- Bless (level 6) -->
+    <content contentuid="h919789fbgd6d2g49ddg96bbgcfc5418d7601" version="1">Applies Greater Bless instead. Affects an additional target per level and for a longer duration. Range is increased by [1] meters.</content>
+
+    <!-- Create or Destroy Water -->
+    <content contentuid="h541a0ebagc2d7g429eg9dbag81ba5b8798f2" version="1">Affects a larger area and has more range at higher levels.</content>
 
 </contentList>
