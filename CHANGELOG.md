@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## \[0.4.3\] - 2023-09-24
+
++ Fixed areas of surfaces created by *Create or Destroy Water* to
+match tooltips and indicators
++ Surfaces created by *Create or Destroy Water* are no longer permament.
+They last for 3 turns (same duration as the *Wet* status the skill applies).
+
 ## \[0.4.2\] - 2023-09-24
 
 + *Create or Destroy Water* gains more range when upcast

@@ -33,5 +33,8 @@
 
 ## Create or Destroy Water
 
++ **Area Scaling:** `+2 meters` per level -> `+1 meter` per level
++ **Range Scaling:** `+2 meters` per level -> `+1 meter` per level
 + **Cost:** `Action` -> `Bonus Action`
 + **Ritual Casting:** Create or Destroy Water can be cast as a Ritual
++ **Surface Duration:** `Permament` -> `3 turns`
