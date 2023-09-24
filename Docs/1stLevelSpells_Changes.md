@@ -34,4 +34,4 @@
 ## Create or Destroy Water
 
 + **Cost:** `Action` -> `Bonus Action`
-++ **Ritual Casting:** Create or Destroy Water can be cast as a Ritual
++ **Ritual Casting:** Create or Destroy Water can be cast as a Ritual
