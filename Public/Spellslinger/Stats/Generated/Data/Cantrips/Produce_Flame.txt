@@ -2,7 +2,7 @@ new entry "Shout_ProduceFlame"
 type "SpellData"
 data "SpellType" "Shout"
 using "Shout_ProduceFlame"
-data "UseCosts" "BonusActionPoint:1"
+data "DescriptionParams" "Distance(9);DealDamage(LevelMapValue(D6Cantrip)+LevelMapValue(CantripMod),Fire)"
 
 new entry "Projectile_ProduceFlame_Hurl"
 type "SpellData"

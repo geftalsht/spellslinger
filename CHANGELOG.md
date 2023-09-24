@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## \[0.4.1\] - 2023-09-24
+
++ Fixed a tooltip for Produce Flame
++ Reverted changing Produce Flame from an Action to a Bonus Action
++ Fixed a tooltip for a level 6 upcast of Bless
+
 ## \[0.4.0\] - 2023-09-24
 
 + Changes to Animal Friendship, Armor of Agathys, Arms of Hadar, Bane, 

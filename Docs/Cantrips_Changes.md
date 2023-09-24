@@ -147,11 +147,6 @@ a kind of mini ray of Sickness with less range, less damage, but without cosing 
 
 ## Produce Flame
 
-"Produce Flame" is a decent cantrip that is pretty much "Light" and "Fire Bolt" in one spell
-for the Druid. Given that I decided to make "Light" a bonus action, I will make "Produce Flame"
-a bonus action as well. Hurling the flame will remain an Action.
-
-+ **\[Produce Flame\] Cost:** `Action` -> `Bonus Action`
 + **\[Hurl\] Damage:** `1d8 Fire` -> `1d6+2 Fire`
 + **\[Hurl\] Damage Scaling:** `+1d8 Fire` at levels 5 and 10 -> `+1d6+2 Fire` at levels 5 and 10
 
