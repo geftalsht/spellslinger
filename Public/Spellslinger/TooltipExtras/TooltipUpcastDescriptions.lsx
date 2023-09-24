@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="100"/>
+    <region id="TooltipUpcastDescriptions">
+        <node id="root">
+            <children>
+                <!-- Bane (level 1) -->
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional targets, longer duration, increased range at levels 3 and 6, Greater Bane at level 6"/>
+                    <attribute id="Text" type="TranslatedString" handle="hc1e5f8bagb672g451fgad0dg7325073ed941" version="1"/>
+                    <attribute id="UUID" type="guid" value="852a45a3-d2b7-4802-a3fb-1847792999db"/>
+                </node>
+                <!-- Bless (level 1) -->
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional targets, longer duration, increased range at levels 3 and 6, Greater Bless at level 6"/>
+                    <attribute id="Text" type="TranslatedString" handle="h03ec2fffge834g42cdg88c9g6443dcd96256" version="1"/>
+                    <attribute id="UUID" type="guid" value="ae5b7270-b0b9-488c-b870-c3cb938d4ccb"/>
+                </node>
+                <!-- Bane, Bless (level 2) -->
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional targets and longer duration"/>
+                    <attribute id="Text" type="TranslatedString" handle="h5c05e08eg41e7g4723gbd4dg3e37595974f5" version="1"/>
+                    <attribute id="UUID" type="guid" value="e3775949-9a08-4413-afe6-d776007f0114"/>
+                </node>
+                <!-- Bane, Bless (levels 3, 4, 5) -->
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional targets, longer duration and increased range"/>
+                    <attribute id="Text" type="TranslatedString" handle="h10950292g6ed0g4ea4gbf74g2d1f69c78c5f" version="1"/>
+                    <attribute id="UUID" type="guid" value="953f326e-afd9-4af5-8b0d-6b66a64585de"/>
+                </node>
+                <!-- Bane (level 6) -->
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional targets, longer duration, increased range and Greater Bane"/>
+                    <attribute id="Text" type="TranslatedString" handle="h88be2625gf739g4c3cg9c1fg55a8b3e9d36e" version="1"/>
+                    <attribute id="UUID" type="guid" value="eef487b5-c16e-4f38-91fa-fdcdeec15b36"/>
+                </node>
+                <!-- Bless (level 6) -->
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional targets, longer duration, increased range and Greater Bless"/>
+                    <attribute id="Text" type="TranslatedString" handle="h919789fbgd6d2g49ddg96bbgcfc5418d7601" version="1"/>
+                    <attribute id="UUID" type="guid" value="39b81283-6c6b-4881-91b9-572c32f2d41d"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

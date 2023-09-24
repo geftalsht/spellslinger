@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## \[0.4.0\] - 2023-09-24
+
++ Changes to Animal Friendship, Armor of Agathys, Arms of Hadar, Bane, 
+Bless, Create or Destroy Water
+
 ## \[0.3.1\] - 2023-09-24
 
 + Documentation files are split to make navigation easier

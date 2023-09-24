@@ -1,0 +1,8 @@
+new entry "GREATER_BLESS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BLESS"
+data "DisplayName" "h3acfd499g2f3fg42d9gacabg2537551e50c8;1"
+data "Description" "ha5b05ff3gc030g4fd5g8298gfbded5673389;1"
+data "DescriptionParams" "1d4+1"
+data "Boosts" "RollBonus(Attack,1d4+1);RollBonus(SavingThrow,1d4+1);RollBonus(DeathSavingThrow,1d4+1)"

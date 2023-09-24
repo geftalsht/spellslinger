@@ -1,0 +1,8 @@
+new entry "GREATER_BANE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BANE"
+data "DisplayName" "hb6bb348dg92ffg4219g9d97ge57fe6fe30a9;1"
+data "Description" "h28a9cf05g7b77g48c8gad1dg14815630df11;1"
+data "DescriptionParams" "1d4-1"
+data "Boosts" "RollBonus(Attack,-1d4-1);RollBonus(SavingThrow,-1d4-1);RollBonus(DeathSavingThrow,-1d4-1)"
