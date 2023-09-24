@@ -79,7 +79,7 @@ default "basic attack" for many spellcasters. Given its straightforward yet vita
 role, the only modification I've introduced is a tweak to its damage output.
 
 + **Damage:** `1d10 Fire` => `1d8+2 Fire`
-+ **Damage Scaling:** `+1d10 Fire` => `+1d8+2 Fire`
++ **Damage Scaling:** `+1d10 Fire` at levels 5 and 10 => `+1d8+2 Fire` at levels 5 and 10
 
 #### Friends
 
@@ -122,4 +122,105 @@ limited use. By making it a Bonus Action, players can use it more freely, especi
 in combat. Most experienced players know where to expect fights and might cast "Light"
 beforehand anyway, so this change shouldn't make battles too easy.
 
++ **Cost:** `Action` -> `Bonus Action`
+
+#### Mage Hand
+
+In the vanilla version of Baldur's Gate 3, the utility of "Mage Hand" is notably limited; 
+it cannot pick locks, interact with many objects, pickpocket, or pick up items, amongst 
+other limitations. Recognizing its restricted functionality, I am adjusting its cost to only a Bonus Action.
+
++ **Cost:** `Action` -> `Bonus Action`
+
+If you want Mage Hand to be more useful, I highly recommend you 
+the [Complete Mage Hand Fix and Rework](https://www.nexusmods.com/baldursgate3/mods/2019)
+mod by *unamazement*. If it is loaded before this mod, the mods won't conflict and you will 
+get both changes. If it is loaded after, the "Mage Hand" will cost an Action like it used to
+(but it will be more useful, so maybe you'd prefer it that way!)
+
+#### Minor Illusion
+
+Minor Illusion is a decent spell in some non-combat scenarios, but there is no reason
+for it to take an entire Action. This might make some thieving escapades in turn-based
+exploration easier.
+
++ **Cost:** `Action` -> `Bonus Action`
+
+#### Poison Spray
+
+This cantrip is very underused, becuase even though on paper it does pretty good damage,
+Poison resistance and immunity are fairly common. It also targets a Constitution
+save rather than armor class and it's also very short range which makes it not
+very attractive.
+However, rather than using it for it's damage (where it simply can't compete with more
+reliable options) it could be shifted towards applying the Poisoned status effect as
+a kind of mini ray of Sickness with less range, less damage, but without cosing a spell slot.
+
++ **Damage:** `1d12 Poison` -> `1d4+2 Poison`
++ **Damage Scaling:** `+1d12 Poison` at levels 5 and 10 => `+1d4+2 Poison` at levels 5 and 10
++ **Range:** `3 meters` -> `6 meters`
++ **\[NEW\] Poisoned:** Applies `Poisoned` status
+
+#### Produce Flame
+
+"Produce Flame" is a decent cantrip that is pretty much "Light" and "Fire Bolt" in one spell
+for the Druid. Given that I decided to make "Light" a bonus action, I will make "Produce Flame"
+a bonus action as well. Hurling the flame will remain an Action.
+
++ **\[Produce Flame\] Cost:** `Action` -> `Bonus Action`
++ **\[Hurl\] Damage:** `1d8 Fire` -> `1d6+2 Fire`
++ **\[Hurl\] Damage Scaling:** `+1d8 Fire` at levels 5 and 10 -> `+1d6+2 Fire` at levels 5 and 10
+
+#### Ray of Frost
+
++ **Damage:** `1d8 Cold` -> `1d6+2 Cold`
++ **Damage Scaling:** `+1d8 Poison` at levels 5 and 10 => `+1d6+2 Poison` at levels 5 and 10
+
+#### Resistance
+
+"Resistance" is a pretty decent cantrip in Baldur's Gate 3 since it doesn't require taking 1 minute
+to cast it. That makes the Baldur's Gate 3 version somewhat similar to Guidance. Still, even with this
+change from the tabletop it is very underused, so I think I could bump its range to 9 meters (which
+will make it more usable in combat) along with scaling it similarly to Guidance.
+
++ **Range:** `Touch` -> `9 meters`
++ **Bonus to Saving Throws:** `+1d4` -> `+1`
++ **\[NEW\] Boost Scaling:** `+1` at levels 5 and 10
+
+#### Sacred Flame
+
+"Sacred Flame" is often overlooked due to its targeting of a Dexterity save, a stat in which many
+enemies excel. To enhance its appeal without converting it into an attack roll (thus maintaining 
+its distinction from "Fire Bolt"), I'm increasing its damage.
+
++ **Damage:** `1d8 Radiant` -> `1d8+2 Radiant`
++ **Damage Scaling:** `+1d8 Radiant` at levels 5 and 10 => `+1d8+2 Radiant` at levels 5 and 10
+
+#### Shocking Grasp
+
++ **Damage:** `1d8 Lightning` -> `1d6+2 Lightning`
++ **Damage Scaling:** `+1d8 Radiant` at levels 5 and 10 => `+1d6+2 Lightning` at levels 5 and 10
+
+#### Thaumaturgy
+
+In "Baldur's Gate 3", "Thaumaturgy" doesn't find a direct combat use due to the absence of 
+combat-related Intimidation or Performance checks. Still, I'm changing its casting time to 
+a Bonus Action. This alteration ensures that players, who might have employed "Thaumaturgy" 
+before an unexpected combat encounter post-dialogue, don't begin the combat round without 
+their primary Action.
+
++ **Cost:** `Action` -> `Bonus Action`
+
+#### Thorn Whip
+
++ **Damage:** `1d6 Piercing` -> `1d4+2 Piercing`
++ **Damage Scaling:** `+1d6 Piercing` at levels 5 and 10 => `+1d4+2 Piercing` at levels 5 and 10
+
+#### True Strike
+
+"True Strike" has long held the reputation of being the least appealing cantrip available. To elevate 
+its usability and ensure it stands as a viable option, I'm eliminating the concentration requirement 
+and transitioning its casting time to a Bonus Action.
+
++ **Concentration:** `Removed`
 + **Cost:** `Action` -> `Bonus Action`

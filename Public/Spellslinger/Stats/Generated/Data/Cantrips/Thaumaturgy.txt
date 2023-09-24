@@ -1,0 +1,5 @@
+new entry "Shout_Thaumaturgy"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Thaumaturgy"
+data "UseCosts" "BonusActionPoint:1"

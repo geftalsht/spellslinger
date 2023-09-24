@@ -1,0 +1,6 @@
+new entry "Target_ThornWhip"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_ThornWhip"
+data "SpellSuccess" "TARGET:IF(not Grounded() and TargetSizeEqualOrSmaller(Size.Large)):Force(-3,OriginToEntity,Neutral,false,true);DealDamage(LevelMapValue(D4Cantrip)+LevelMapValue(CantripMod),Piercing,Magical);"
+data "TooltipDamageList" "DealDamage(LevelMapValue(D4Cantrip)+LevelMapValue(CantripMod),Piercing);"

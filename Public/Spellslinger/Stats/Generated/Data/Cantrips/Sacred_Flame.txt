@@ -1,0 +1,7 @@
+new entry "Target_SacredFlame"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SacredFlame"
+data "SpellSuccess" "DealDamage(LevelMapValue(D8Cantrip)+LevelMapValue(CantripMod),Radiant,Magical)"
+data "SpellFail" "IF(HasPassive('PotentCantrip',context.Source)):DealDamage((LevelMapValue(D8Cantrip)+LevelMapValue(CantripMod))/2,Radiant,Magical)"
+data "TooltipDamageList" "DealDamage(LevelMapValue(D8Cantrip)+LevelMapValue(CantripMod),Radiant)"

@@ -1,0 +1,5 @@
+new entry "Target_MageHand"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MageHand"
+data "UseCosts" "BonusActionPoint:1"

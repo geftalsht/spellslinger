@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-    
-    <content contentuid="h2bd21837g2903g4cddg8b11ga66587b4892c" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
 
+    <!-- Guidance skill description -->
     <content contentuid="hf7bd8a5fg3939g467ag95a5g8dc3086a95ef" version="1">The target gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
 
-    <!-- Acid Splash Description -->
+    <!-- Guidance status description -->
+    <content contentuid="h2bd21837g2903g4cddg8b11ga66587b4892c" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+
+    <!-- Acid Splash description -->
     <content contentuid="h8e439155gc8dag41e9g85e8g25595ee4202d" version="1">Throw a bubble of acid that damages each creature it hits and covers them in &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;.</content>
+
+    <!-- Poison Spray description -->
+    <content contentuid="h7ab78552g8742g4b02g8149gf9fe10798de8" version="1">Project a puff of noxious gas and &lt;LSTag Type="Status" Tooltip="POISONED"&gt;poison&lt;/LSTag&gt; the target.</content>
+
+    <!-- Resistance status description -->
+    <content contentuid="h375253fdge403g45a2g9fc0gea5c6583d597" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 
 </contentList>

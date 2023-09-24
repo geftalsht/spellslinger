@@ -1,0 +1,7 @@
+new entry "Target_ShockingGrasp"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_ShockingGrasp"
+data "SpellSuccess" "ApplyStatus(SHOCKING_GRASP,100,1);DealDamage(LevelMapValue(D6Cantrip)+LevelMapValue(CantripMod),Lightning,Magical)"
+data "DescriptionParams" "DealDamage(LevelMapValue(D6Cantrip)+LevelMapValue(CantripMod),Lightning)"
+data "TooltipDamageList" "DealDamage(LevelMapValue(D6Cantrip)+LevelMapValue(CantripMod),Lightning)"

@@ -1,0 +1,5 @@
+new entry "Target_MinorIllusion"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MinorIllusion"
+data "UseCosts" "BonusActionPoint:1"

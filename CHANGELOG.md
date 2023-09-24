@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## \[0.3.0\] - 2023-09-24
+
++ Finished making changes to cantrips
+
 ## \[0.2.1\] - 2023-09-23
 
 + Rethought and redone changes to Guidance
