@@ -65,4 +65,11 @@
     <!-- Create or Destroy Water -->
     <content contentuid="h541a0ebagc2d7g429eg9dbag81ba5b8798f2" version="1">Affects a larger area and has more range at higher levels.</content>
 
+
+
+    <!-- PASSIVES -->
+    <content contentuid="h4efb2b2bg3830g461bg8a70g57ecf661a394" version="1">This githyanki weapon deals an additional [1].</content>
+
+    <content contentuid="hceb5b408g2660g4343ga2d5g1b4e7eef415b" version="1">A person holding this weapon has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Psychic damage, and cannot be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;.</content>
+
 </contentList>

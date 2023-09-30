@@ -1,6 +1,12 @@
 # CHANGELOG
 
-## \[0.5.0\] - 2023-09-24
+## \[0.6.0\] - 2023-09-30
+
++ Made *Silver Sword of the Astral Plane* work for all races
++ Changes to *Burning Hands*, *Charm Person*, *Chromatic Orb*, *Cure Wounds*,
+*Dissonant Whispers*, *Divine Favour*, *Ensnaring Strike*, *Entangle*
+
+## \[0.5.0\] - 2023-09-30
 
 + Changes to *Luck of the Far Realms*, *Prepare*, *Brace*, *Psyonic Overload*
 + All Illithid Powers can now be taken in any order without prerequisites. Illithid

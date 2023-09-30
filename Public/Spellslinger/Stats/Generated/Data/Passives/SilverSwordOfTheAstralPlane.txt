@@ -1,0 +1,11 @@
+new entry "MAG_Legendary_PsionicWeapon_Passive"
+type "PassiveData"
+using "MAG_Legendary_PsionicWeapon_Passive"
+data "BoostConditions" ""
+data "Description" "h4efb2b2bg3830g461bg8a70g57ecf661a394;1"
+
+new entry "MAG_Legendary_PsionicResistance_Passive"
+type "PassiveData"
+using "MAG_Legendary_PsionicResistance_Passive"
+data "BoostConditions" ""
+data "Description" "hceb5b408g2660g4343ga2d5g1b4e7eef415b;1"

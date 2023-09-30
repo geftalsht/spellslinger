@@ -1,0 +1,5 @@
+new entry "Target_EnsnaringStrike"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_EnsnaringStrike"
+data "TooltipUpcastDescriptionParams" "DealDamage(1d4+2,Piercing)"

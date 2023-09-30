@@ -31,6 +31,17 @@
 + **\[NEW\] Greater Bless:** Upcasting *Bless* using a 6th level slot will apply *Greater Bless* instead. 
 *Greater Bless* applies a `1d4+1` bonus instead.
 
+## Burning Hands
+
++ **Damage:** `3d6 Fire` -> `3d4+2 Fire`
++ **Damage Scaling:** `+1d6 Fire` -> `+1d4+2 Fire`
+
+## Chromatic Orb
+
++ **Damage (Thunder or Lightning):** `3d8`  -> `3d6+2`
++ **Damage (Acid, Cold, Fire, Poison):** `2d8` -> `3d6+2`
++ **Damage Scaling:** `+1d8` -> `+1d6+2`
+
 ## Create or Destroy Water
 
 + **Area Scaling:** `+2 meters` per level -> `+1 meter` per level
@@ -38,3 +49,25 @@
 + **Cost:** `Action` -> `Bonus Action`
 + **Ritual Casting:** Create or Destroy Water can be cast as a Ritual
 + **Surface Duration:** `Permament` -> `3 turns`
+
+## Cure Wounds
+
++ **Healing Scaling:** `+1d8` -> `+1d8+5+Mod`
+
+## Dissonant Whispers
+
++ **Damage:** `3d6 Psychic` -> `3d4+6 Psychic`
++ **Damage Scaling:** `+1d6 Psychic` -> `+1d4+2 Psychic`
+
+## Divine Favour
+
++ **\[NEW\] Damage Scaling:** `+2 Radiant per spell level`
+
+## Ensnaring Strike
+
++ **DoT:** `1d6 Piercing` per turn -> `1d4+2 Piercing`
++ **DoT Scaling:** `+1d6 Piercing` -> `+1d4+2 Piercing`
+
+## Entangle
+
++ **Cost:** `Action` -> `Bonus Action`
