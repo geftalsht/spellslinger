@@ -1,0 +1,6 @@
+new entry "Shout_Steady"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Steady"
+data "Cooldown" "OncePerCombat"
+data "SpellFlags" "IsDefaultWeaponAction;Stealth;Invisible"

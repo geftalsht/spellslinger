@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## \[0.5.0\] - 2023-09-24
+
++ Changes to *Luck of the Far Realms*, *Prepare*, *Brace*, *Psyonic Overload*
++ All Illithid Powers can now be taken in any order without prerequisites. Illithid
+powers that required an Astral Tadpole still require it.
+
 ## \[0.4.3\] - 2023-09-24
 
 + Fixed areas of surfaces created by *Create or Destroy Water* to

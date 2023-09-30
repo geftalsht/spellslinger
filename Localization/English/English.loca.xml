@@ -21,6 +21,8 @@
     <!-- Resistance -->
     <content contentuid="h375253fdge403g45a2g9fc0gea5c6583d597" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 
+
+
     <!-- SPELL TOOLTIPS -->
 
     <!-- Acid Splash -->
@@ -34,6 +36,11 @@
 
     <!-- Bless (level 1) -->
     <content contentuid="h26fec4c1gd9d9g43d3gb61agd7805f852fec" version="1">Bless a creature. They gain a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+
+    <!-- Luck of the Far Realms -->
+    <content contentuid="h2dde8431gf614g4accg920dgc0a3d61fc5ec" version="1">Once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, you can change a successful &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against a foe into a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
+
+
 
     <!-- UPCASTING TOOLTIPS -->
 

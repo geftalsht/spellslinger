@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="1" revision="0" build="0"/>
+    <region id="ConditionErrors">
+        <node id="root">
+            <children>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7042f7f4gf722g42aegbbf0g4053d2644555" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="CE_ActionResource_Interrupt_LuckOfTheFarRealms_Charge_False"/>
+                    <attribute id="UUID" type="guid" value="ed4000ae-c3ca-45c6-91c5-0a4ed2639396"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,5 @@
+new entry "Shout_TAD_PsionicOverload"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_TAD_PsionicOverload"
+data "UseCosts" "BonusActionPoint:1"

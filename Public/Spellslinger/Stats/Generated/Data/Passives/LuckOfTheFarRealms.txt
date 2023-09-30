@@ -1,0 +1,4 @@
+new entry "TAD_LuckOfTheFarRealms"
+type "PassiveData"
+using "TAD_LuckOfTheFarRealms"
+data "Description" "h2dde8431gf614g4accg920dgc0a3d61fc5ec;1"
