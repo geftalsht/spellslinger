@@ -63,10 +63,12 @@
 
 + **\[NEW\] Damage Scaling:** `+2 Radiant per spell level`
 
-## Ensnaring Strike
+## Ensnaring Strike (Melee)
 
-+ **DoT:** `1d6 Piercing` per turn -> `1d4+2 Piercing`
-+ **DoT Scaling:** `+1d6 Piercing` -> `+1d4+2 Piercing`
++ **Concentration:** `Removed`
++ **Duration:** `10 turns` -> `3 turns + 1 turn per level`
++ **DoT:** `1d6 Piercing` per turn -> `1d6+2 Piercing`
++ **DoT Scaling:** `+1d6 Piercing` -> `+1d6+2 Piercing`
 
 ## Entangle
 

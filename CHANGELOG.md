@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## \[0.6.1\] - 2023-10-01
+
++ Fixed *Ensnaring Strike* changes
+
 ## \[0.6.0\] - 2023-09-30
 
 + Made *Silver Sword of the Astral Plane* work for all races
