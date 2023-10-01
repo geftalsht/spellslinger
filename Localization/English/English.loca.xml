@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 
-    <!-- STATUS EFFECT TOOLTIPS -->
+    <!-- BOOSTS -->
 
     <!-- Greater Bane -->
     <content contentuid="hb6bb348dg92ffg4219g9d97ge57fe6fe30a9" version="1">Greater Bane</content>
@@ -21,9 +21,27 @@
     <!-- Resistance -->
     <content contentuid="h375253fdge403g45a2g9fc0gea5c6583d597" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 
+    <!-- Armor of Agathys (levels 1, 2, 3) -->
+    <content contentuid="h2a1a0a76g1c33g43b7gb292g43c04ff0a97b" version="1">Gained [1]. If hit with a melee attack, the attacker takes [2] and this effect ends.</content>
+
+    <!-- Armor of Agathys (levels 4, 5, 6) -->
+    <content contentuid="h5d98bf54gc139g469dgb1f7gdfea138f9bad" version="1">Gained [1]. If hit with a melee attack, the attacker takes [2], is &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; for [3] turns and this effect ends.</content>
 
 
-    <!-- SPELL TOOLTIPS -->
+
+    <!-- PASSIVES -->
+
+    <!-- Silver Sword of the Astral Plane-->
+    <content contentuid="h4efb2b2bg3830g461bg8a70g57ecf661a394" version="1">This githyanki weapon deals an additional [1].</content>
+
+    <content contentuid="hceb5b408g2660g4343ga2d5g1b4e7eef415b" version="1">A person holding this weapon has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Psychic damage, and cannot be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;.</content>
+
+    <!-- Armor of Agathys levels 4, 5, 6 -->
+    <content contentuid="hb2023983gea5dg4c23g9daag813b67a8c66c" version="1">A spectral frost covers you and your gear. When a creature hits you with a melee attack, it takes [1] and is &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; for [2] turns.</content>
+    
+
+
+    <!-- SPELLS -->
 
     <!-- Acid Splash -->
     <content contentuid="h8e439155gc8dag41e9g85e8g25595ee4202d" version="1">Throw a bubble of acid that damages each creature it hits and covers them in &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;.</content>
@@ -34,6 +52,9 @@
     <!-- Poison Spray -->
     <content contentuid="h7ab78552g8742g4b02g8149gf9fe10798de8" version="1">Project a puff of noxious gas and &lt;LSTag Type="Status" Tooltip="POISONED"&gt;poison&lt;/LSTag&gt; the target.</content>
 
+    <!-- Armor of Agathys (level 4, 5, 6) -->
+    <content contentuid="he835ae36g5e8eg4edegaf65gfd1b3594a138" version="1">Gain [1], deal [2] to any creature that hits you with a melee attack and apply &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; to it for [3] turns.</content>
+
     <!-- Bless (level 1) -->
     <content contentuid="h26fec4c1gd9d9g43d3gb61agd7805f852fec" version="1">Bless a creature. They gain a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 
@@ -42,7 +63,16 @@
 
 
 
-    <!-- UPCASTING TOOLTIPS -->
+    <!-- UPCASTING -->
+
+    <!-- Armor of Agathys (level 1) -->
+    <content contentuid="h7a2e5f99g735bg42ceg927cg43c49bae0e49" version="1">Gain an additional [1] and deal an additional [2] per level. At levels 4, 5, 6 additionally apply &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; for [3] turns.</content>
+
+    <!-- Armor of Agathys (level 2, 3, 5, 6) -->
+    <content contentuid="hb4d97005g788cg4423g905fgb917a7650fb4" version="1">Gain an additional [1] and deal an additional [2].</content>
+
+    <!-- Armor of Agathys (level 4)-->
+    <content contentuid="h976d3edag963dg482bga3f0gd4b4f33d3414" version="1">Gain an additional [1] and deal an additional [2]. Apply &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; for [3] turns.</content>
 
     <!-- Bane (level 1) -->
     <content contentuid="hc1e5f8bagb672g451fgad0dg7325073ed941" version="1">Adds target &amp; time per level. At 3 &amp; 6, range up. Level 6 applies Greater Bane.</content>
@@ -64,12 +94,5 @@
 
     <!-- Create or Destroy Water -->
     <content contentuid="h541a0ebagc2d7g429eg9dbag81ba5b8798f2" version="1">Affects a larger area and has more range at higher levels.</content>
-
-
-
-    <!-- PASSIVES -->
-    <content contentuid="h4efb2b2bg3830g461bg8a70g57ecf661a394" version="1">This githyanki weapon deals an additional [1].</content>
-
-    <content contentuid="hceb5b408g2660g4343ga2d5g1b4e7eef415b" version="1">A person holding this weapon has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Psychic damage, and cannot be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;.</content>
 
 </contentList>

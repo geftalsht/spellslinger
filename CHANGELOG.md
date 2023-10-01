@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## \[0.7.0\] - 2023-10-01
+
++ Altered the changes to Armor of Agathys and fixed the related tooltips (including some vanilla bugs)
+
 ## \[0.6.1\] - 2023-10-01
 
 + Fixed *Ensnaring Strike* changes

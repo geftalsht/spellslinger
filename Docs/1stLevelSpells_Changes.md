@@ -7,6 +7,9 @@
 ## Armour of Agathys
 
 + **Cost:** `Action` -> `Bonus Action`
++ **\[NEW\]:** At levels 4, 5, 6 an attacker who hits the spellcaster is also affected by *Chilled* for 3 turns.
+*Chilled* status is applied after the damage from *Armor of Agathys*, so the main damage does not benefit from the
+vulnerability to cold.
 
 ## Arms of Hadar
 
