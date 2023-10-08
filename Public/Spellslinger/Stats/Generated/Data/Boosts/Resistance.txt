@@ -1,0 +1,7 @@
+new entry "RESISTANCE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "RESISTANCE"
+data "Description" "h375253fdge403g45a2g9fc0gea5c6583d597;1"
+data "DescriptionParams" "LevelMapValue(GuidanceMod)"
+data "Boosts" "RollBonus(SavingThrow,LevelMapValue(GuidanceMod));RollBonus(DeathSavingThrow,LevelMapValue(GuidanceMod))"

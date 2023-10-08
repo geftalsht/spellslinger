@@ -3,6 +3,27 @@
 
     <!-- BOOSTS -->
 
+    <!-- Weak Acid -->
+    <content contentuid="he09b8a12g5cfdg4fdeg8e56ge98cd26fc138" version="1">Weak Acid</content>
+
+    <!-- Weak Acid Description -->
+    <content contentuid="hdab902e9g60d1g404ega59fgd6d581ef4b87" version="1">Reduces &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1.</content>
+
+    <!-- Blade Ward II -->
+    <content contentuid="h824b6561g9f0fg49f8ga7fdga7587391fac4" version="1">Blade Ward II</content>
+
+    <!-- Blade Ward III -->
+    <content contentuid="hff119ec6g4b2cg4737gbd60g613370a9c88a" version="1">Blade Ward III</content>
+
+    <!-- Blade Ward II, III Description -->
+    <content contentuid="hd862aacdgaf5ag4bd9gba40g4bf0ccf9fc48" version="1">Has &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; against Bludgeoning, Piercing, and Slashing damage and reduces damage from those types by [1].</content>
+
+    <!-- Dancing Lights II -->
+    <content contentuid="h5fa46094g905eg4c2cgb9dcg00a926e78855" version="1">Dancing Lights II</content>
+
+    <!-- Dancing Lights III -->
+    <content contentuid="h65175417g5e6eg44d4g82d6g01a3c9e3043a" version="1">Dancing Lights III</content>
+
     <!-- Greater Bane -->
     <content contentuid="hb6bb348dg92ffg4219g9d97ge57fe6fe30a9" version="1">Greater Bane</content>
 
@@ -44,13 +65,28 @@
     <!-- SPELLS -->
 
     <!-- Acid Splash -->
-    <content contentuid="h8e439155gc8dag41e9g85e8g25595ee4202d" version="1">Throw a bubble of acid that damages each creature it hits and covers them in &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt;.</content>
+    <content contentuid="h8e439155gc8dag41e9g85e8g25595ee4202d" version="1">Throw a bubble of acid that damages each creature it hits and covers them in a &lt;LSTag Type="Status" Tooltip="ACID_WEAK"&gt;weak acid&lt;/LSTag&gt;.</content>
 
-     <!-- Guidance -->
+    <!-- Blade Ward Extra -->
+    <content contentuid="h9a46dd3dg1a89g41aeg8b6cgad1e478a7b2f" version="1">At level 5 additionally gain [1] damage reduction against those damage types. At level 10 damage reduction is increased to [2].</content>
+
+    <!-- Dancing Lights -->
+    <content contentuid="hd70facd1g9331g463cgb081g810c35615c46" version="1">Create magical lights that illuminate a [1] radius.</content>
+
+    <!-- Dancing Lights Extra -->
+    <content contentuid="h161c8ba8g5101g4eabgbc64g7a9b994a322d" version="1">At level 5 illuminated radius is increased to [1]. At level 10 illuminated radius is increased to [2].</content>
+
+    <!-- Guidance -->
     <content contentuid="hf7bd8a5fg3939g467ag95a5g8dc3086a95ef" version="1">The target gains a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
 
     <!-- Poison Spray -->
     <content contentuid="h7ab78552g8742g4b02g8149gf9fe10798de8" version="1">Project a puff of noxious gas and &lt;LSTag Type="Status" Tooltip="POISONED"&gt;poison&lt;/LSTag&gt; the target.</content>
+
+    <!-- Ray of Frost -->
+    <content contentuid="h83b2fb0egf262g410dga3fdgea84ffb6ff4a" version="1">Deal [1] to the target and reduce it's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [2].</content>
+
+    <!-- Thorn Whip -->
+    <content contentuid="he92cb2d5g4256g4ad3g871eg2cdead357e68" version="1">At level 5 target creature is pulled for [1]. At level 10 target creature is pulled for [2].</content>
 
     <!-- Armor of Agathys (level 4, 5, 6) -->
     <content contentuid="he835ae36g5e8eg4edegaf65gfd1b3594a138" version="1">Gain [1], deal [2] to any creature that hits you with a melee attack and apply &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; to it for [3] turns.</content>

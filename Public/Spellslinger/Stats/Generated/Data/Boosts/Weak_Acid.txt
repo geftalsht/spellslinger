@@ -1,0 +1,7 @@
+new entry "ACID_WEAK"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ACID"
+data "DisplayName" "he09b8a12g5cfdg4fdeg8e56ge98cd26fc138;1"
+data "Description" "hdab902e9g60d1g404ega59fgd6d581ef4b87;1"
+data "Boosts" "AC(-1)"
