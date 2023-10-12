@@ -1,0 +1,5 @@
+new entry "CHILLED"
+type "StatusData"
+data "StatusType" "BOOST"
+using "CHILLED"
+data "StackPriority" "0"

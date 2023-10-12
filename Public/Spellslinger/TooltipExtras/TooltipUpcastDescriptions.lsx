@@ -10,13 +10,19 @@
                     <attribute id="Text" type="TranslatedString" handle="h7a2e5f99g735bg42ceg927cg43c49bae0e49" version="1"/>
                     <attribute id="UUID" type="guid" value="75c6d649-fa06-4a9c-9dc4-33acb7132f27"/>
                 </node>
-                <!-- Armor of Agathys (level 2, 3, 5, 6) -->
+                <!-- Armor of Agathys (level 2, 4, 6) -->
                 <node id="TooltipUpcastDescriptions">
                     <attribute id="Name" type="FixedString" value="Armour of Agathys"/>
                     <attribute id="Text" type="TranslatedString" handle="hb4d97005g788cg4423g905fgb917a7650fb4" version="1"/>
                     <attribute id="UUID" type="guid" value="586bf235-e148-45dd-9bed-0d7a73640489"/>
                 </node>
-                <!-- Armor of Agathys (levels 4) -->
+                <!-- Armor of Agathys (level 3) -->
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Armour of Agathys"/>
+                    <attribute id="Text" type="TranslatedString" handle="h3552b877g75f2g4fd0g9a55g972dccb175bb" version="1"/>
+                    <attribute id="UUID" type="guid" value="56682950-e4ec-40b2-8cf6-e0f430bc376d"/>
+                </node>
+                <!-- Armor of Agathys (levels 5) -->
                 <node id="TooltipUpcastDescriptions">
                     <attribute id="Name" type="FixedString" value="Armour of Agathys"/>
                     <attribute id="Text" type="TranslatedString" handle="h976d3edag963dg482bga3f0gd4b4f33d3414" version="1"/>

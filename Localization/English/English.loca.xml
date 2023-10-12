@@ -24,6 +24,12 @@
     <!-- Dancing Lights III -->
     <content contentuid="h65175417g5e6eg44d4g82d6g01a3c9e3043a" version="1">Dancing Lights III</content>
 
+    <!-- Frostbite -->
+    <content contentuid="h298ec7a9ge45fg479fg9884g7f8f5c22a7d9" version="1">Frostbite</content>
+
+    <!-- Frostbite Description -->
+    <content contentuid="hef28da1dg720eg41d8g88f8g8e8d369f5ed2" version="1">Affected entity is &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Cold and Fire damage.</content>
+
     <!-- Greater Bane -->
     <content contentuid="hb6bb348dg92ffg4219g9d97ge57fe6fe30a9" version="1">Greater Bane</content>
 
@@ -42,11 +48,14 @@
     <!-- Resistance -->
     <content contentuid="h375253fdge403g45a2g9fc0gea5c6583d597" version="1">Gains a +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 
-    <!-- Armor of Agathys (levels 1, 2, 3) -->
+    <!-- Armor of Agathys (levels 1, 2) -->
     <content contentuid="h2a1a0a76g1c33g43b7gb292g43c04ff0a97b" version="1">Gained [1]. If hit with a melee attack, the attacker takes [2] and this effect ends.</content>
 
-    <!-- Armor of Agathys (levels 4, 5, 6) -->
-    <content contentuid="h5d98bf54gc139g469dgb1f7gdfea138f9bad" version="1">Gained [1]. If hit with a melee attack, the attacker takes [2], is &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; for [3] turns and this effect ends.</content>
+    <!-- Armor of Agathys (levels 3, 4) -->
+    <content contentuid="h9ff77191g86b5g43c3g9764g534d0e6b3586" version="1">Gained [1]. If hit with a melee attack, the attacker takes [2] is &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbitten&lt;/LSTag&gt; for [3] turns and this effect ends.</content>
+
+    <!-- Armor of Agathys (levels 5, 6) -->
+    <content contentuid="h5d98bf54gc139g469dgb1f7gdfea138f9bad" version="1">Gained [1]. If hit with a melee attack, the barrier explodes in an area around the caster dealing [2] and applying &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbite&lt;/LSTag&gt; for [3] turns to all targets caught in the explosion and this effect ends.</content>
 
 
 
@@ -57,8 +66,11 @@
 
     <content contentuid="hceb5b408g2660g4343ga2d5g1b4e7eef415b" version="1">A person holding this weapon has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Psychic damage, and cannot be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;.</content>
 
-    <!-- Armor of Agathys levels 4, 5, 6 -->
-    <content contentuid="hb2023983gea5dg4c23g9daag813b67a8c66c" version="1">A spectral frost covers you and your gear. When a creature hits you with a melee attack, it takes [1] and is &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; for [2] turns.</content>
+    <!-- Armor of Agathys levels 3, 4 -->
+    <content contentuid="hb2023983gea5dg4c23g9daag813b67a8c66c" version="1">A spectral frost covers you and your gear. When a creature hits you with a melee attack, it takes [1] and is &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbitten&lt;/LSTag&gt; for [2] turns.</content>
+
+    <!-- Armor of Agathys levels 5, 6 -->
+    <content contentuid="h529ae033gfd92g4cbdga9fdg85bc17b149dd" version="1">A spectral frost covers you and your gear. When a creature hits you with a melee attack, the barrier explodes in an area around the caster dealing [1] and applying &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbite&lt;/LSTag&gt; for [2] turns to all targets caught in the explosion.</content>
     
 
 
@@ -88,8 +100,17 @@
     <!-- Thorn Whip -->
     <content contentuid="he92cb2d5g4256g4ad3g871eg2cdead357e68" version="1">At level 5 target creature is pulled for [1]. At level 10 target creature is pulled for [2].</content>
 
-    <!-- Armor of Agathys (level 4, 5, 6) -->
-    <content contentuid="he835ae36g5e8eg4edegaf65gfd1b3594a138" version="1">Gain [1], deal [2] to any creature that hits you with a melee attack and apply &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; to it for [3] turns.</content>
+    <!-- Armor of Agathys (level 3, 4) -->
+    <content contentuid="he835ae36g5e8eg4edegaf65gfd1b3594a138" version="1">Gain [1], deal [2] to any creature that hits you with a melee attack and apply &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbitten&lt;/LSTag&gt; to it for [3] turns.</content>
+
+    <!-- Armor of Agathys (level 5, 6) -->
+    <content contentuid="h55e47619g7f9cg4760g88b9g9bbb80ae3db3" version="1">Gain [1]. When hit with a melee attack, the barrier explodes in an area around the caster dealing [2] and applying &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbite&lt;/LSTag&gt; for [3] turns to all targets caught in the explosion.</content>
+
+    <!-- Armor of Agathys Explosion -->
+    <content contentuid="h42801febg035ag4dd8g9028gaa8eadaec745" version="1">Armor of Agathys Explosion</content>
+
+    <!-- Armor of Agathys Explosion Description -->
+    <content contentuid="hd3bd0500gdf8fg4416ga045gb8bc2cd977fb" version="1">Deal [1] and apply &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbite&lt;/LSTag&gt; to all enemies in a [2] radius.</content>
 
     <!-- Bless (level 1) -->
     <content contentuid="h26fec4c1gd9d9g43d3gb61agd7805f852fec" version="1">Bless a creature. They gain a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
@@ -102,13 +123,16 @@
     <!-- UPCASTING -->
 
     <!-- Armor of Agathys (level 1) -->
-    <content contentuid="h7a2e5f99g735bg42ceg927cg43c49bae0e49" version="1">Gain an additional [1] and deal an additional [2] per level. At levels 4, 5, 6 additionally apply &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; for [3] turns.</content>
+    <content contentuid="h7a2e5f99g735bg42ceg927cg43c49bae0e49" version="1">Gain an additional [1] and deal an additional [2] per level. From level 3 additionally apply &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbite&lt;/LSTag&gt; to the attacker. From level 5 spectral barrier explodes in an area around the caster when destroyed.</content>
 
-    <!-- Armor of Agathys (level 2, 3, 5, 6) -->
+    <!-- Armor of Agathys (levels 2, 4, 6) -->
     <content contentuid="hb4d97005g788cg4423g905fgb917a7650fb4" version="1">Gain an additional [1] and deal an additional [2].</content>
 
-    <!-- Armor of Agathys (level 4)-->
-    <content contentuid="h976d3edag963dg482bga3f0gd4b4f33d3414" version="1">Gain an additional [1] and deal an additional [2]. Apply &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;chilled&lt;/LSTag&gt; for [3] turns.</content>
+    <!-- Armor of Agathys (level 3) -->
+    <content contentuid="h3552b877g75f2g4fd0g9a55g972dccb175bb" version="1">Gain an additional [1] and deal an additional [2]. Apply &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbite&lt;/LSTag&gt; to the attacker for [3] turns.</content>
+
+    <!-- Armor of Agathys (level 5)-->
+    <content contentuid="h976d3edag963dg482bga3f0gd4b4f33d3414" version="1">Gain an additional [1] and deal an additional [2]. Barrier explodes in an area around the caster dealing damage and applying &lt;LSTag Type="Status" Tooltip="FROSTBITTEN"&gt;frostbite&lt;/LSTag&gt; to all affected targets.</content>
 
     <!-- Bane (level 1) -->
     <content contentuid="hc1e5f8bagb672g451fgad0dg7325073ed941" version="1">Adds target &amp; time per level. At 3 &amp; 6, range up. Level 6 applies Greater Bane.</content>

@@ -1,0 +1,9 @@
+new entry "PASSIVE_ARMOR_OF_AGATHYS_5"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "PASSIVE_ARMOR_OF_AGATHYS"
+
+new entry "PASSIVE_ARMOR_OF_AGATHYS_6"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "PASSIVE_ARMOR_OF_AGATHYS"
